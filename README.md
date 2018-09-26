@@ -1,7 +1,7 @@
 # Kalman-Filter-Based-GPS-Signal-Tracking
 Noisy GPS signal filtering algorithm with Kalman Filter
 
-Using standard Kalman Filter to filter the noisy GPS signal in Longitude and Latitude.
+Using standard Kalman Filter to filter the noisy GPS signal in Longitude and Latitude in degrees.
 
 From the result below:
 
